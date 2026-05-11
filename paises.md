@@ -10,3 +10,8 @@
 * Ciudad del Vaticano
 * Suecia
 
+# AFRICA
+
+* Marruecos
+* Egipto
+* Nigeria
