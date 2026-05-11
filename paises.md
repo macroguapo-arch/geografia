@@ -15,3 +15,9 @@
 * Marruecos
 * Egipto
 * Nigeria
+
+# AMERICA
+
+* Perú
+* Canadá
+* Brasilia
