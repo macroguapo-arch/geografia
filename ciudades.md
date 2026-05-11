@@ -10,3 +10,8 @@
 * Lyon
 * Budapest
 
+# AFRICA
+
+* El Cairo
+* Casablanca
+* Lagos
